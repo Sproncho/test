@@ -4,4 +4,8 @@ sdcsd
 asxasc
 ascasc
 neew
+<<<<<<< HEAD
 (conflict1)
+=======
+(conflict2)
+>>>>>>> origin/main
